@@ -1,0 +1,4 @@
+[package]
+org = "hahack23"
+name = "devant_integration_demo"
+version = "1.0.0"
